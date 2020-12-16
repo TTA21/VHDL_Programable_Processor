@@ -1,0 +1,209 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "o_OUTPUTp[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[7]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[8]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[9]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[10]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[11]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[12]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[13]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[14]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTp[15]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[7]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[8]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[9]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[10]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[11]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[12]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[13]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[14]",
+					"strict" : false
+				},
+				{
+					"name" : "o_OUTPUTq[15]",
+					"strict" : false
+				},
+				{
+					"name" : "i_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i_PROGRAMING_SIGNAL",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[5]",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[9]",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[0]",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[4]",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[8]",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[7]",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[11]",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[2]",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[6]",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[10]",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[12]",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[13]",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[14]",
+					"strict" : false
+				},
+				{
+					"name" : "i_DATA_TO_PROGRAM[15]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
